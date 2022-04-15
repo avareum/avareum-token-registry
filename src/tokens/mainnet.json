@@ -805,7 +805,7 @@
             "invest_type": "borrowing"
         },
         {
-            "id": "tr.mir.farm.ust-maapl_lp",
+            "id": "tr.mir.farm.ust-maapl",
             "native_symbol": "maapl",
             "name": "mAAPL-UST LP",
             "address": "terra122asauhmv083p02rhgyp7jn7kmjjm4ksexjnks",
@@ -816,7 +816,7 @@
             "invest_type": "staking"
         },
         {
-            "id": "tr.mir.farm.ust-mabnb_lp",
+            "id": "tr.mir.farm.ust-mabnb",
             "native_symbol": "mabnb",
             "name": "mABNB-UST LP",
             "address": "terra1jmauv302lfvpdfau5nhzy06q0j2f9te4hy2d07",
@@ -827,7 +827,7 @@
             "invest_type": "staking"
         },
         {
-            "id": "tr.mir.farm.ust-mamd_lp",
+            "id": "tr.mir.farm.ust-mamd",
             "native_symbol": "mamd",
             "name": "mAMD-UST LP",
             "address": "terra1m8mr9u3su46ezxwf7z7xnvm0jsapl2jd8vgefh",
@@ -838,7 +838,7 @@
             "invest_type": "staking"
         },
         {
-            "id": "tr.mir.farm.ust-mamzn_lp",
+            "id": "tr.mir.farm.ust-mamzn",
             "native_symbol": "mamzn",
             "name": "mAMZN-UST LP",
             "address": "terra1q7m2qsj3nzlz5ng25z5q5w5qcqldclfe3ljup9",
@@ -849,7 +849,7 @@
             "invest_type": "staking"
         },
         {
-            "id": "tr.mir.farm.ust-markk_lp",
+            "id": "tr.mir.farm.ust-markk",
             "native_symbol": "markk",
             "name": "mARKK-UST LP",
             "address": "terra1veqh8yc55mhw0ttjr5h6g9a6r9nylmrc0nzhr7",
@@ -860,7 +860,7 @@
             "invest_type": "staking"
         },
         {
-            "id": "tr.mir.farm.ust-mbaba_lp",
+            "id": "tr.mir.farm.ust-mbaba",
             "native_symbol": "mbaba",
             "name": "mBABA-UST LP",
             "address": "terra1stfeev27wdf7er2uja34gsmrv58yv397dlxmyn",
@@ -871,7 +871,7 @@
             "invest_type": "staking"
         },
         {
-            "id": "tr.mir.farm.ust-mbtc_lp",
+            "id": "tr.mir.farm.ust-mbtc",
             "native_symbol": "mbtc",
             "name": "mBTC-UST LP",
             "address": "terra1d34edutzwcz6jgecgk26mpyynqh74j3emdsnq5",
@@ -882,7 +882,7 @@
             "invest_type": "staking"
         },
         {
-            "id": "tr.mir.farm.ust-mcoin_lp",
+            "id": "tr.mir.farm.ust-mcoin",
             "native_symbol": "mcoin",
             "name": "mCOIN-UST LP",
             "address": "terra1ktckr8v7judrr6wkwv476pwsv8mht0zqzw2t0h",
@@ -893,7 +893,7 @@
             "invest_type": "staking"
         },
         {
-            "id": "tr.mir.farm.ust-mdis_lp",
+            "id": "tr.mir.farm.ust-mdis",
             "native_symbol": "mdis",
             "name": "mDIS-UST LP",
             "address": "terra13sjghs2r7seamgr4g9c4p2eeacknggetsrhcar",
@@ -904,7 +904,7 @@
             "invest_type": "staking"
         },
         {
-            "id": "tr.mir.farm.ust-mdot_lp",
+            "id": "tr.mir.farm.ust-mdot",
             "native_symbol": "mdot",
             "name": "mDOT-UST LP",
             "address": "terra1p60datmmf25wgssguv65ltds3z6ea3me74nm2e",
@@ -915,7 +915,7 @@
             "invest_type": "staking"
         },
         {
-            "id": "tr.mir.farm.ust-meth_lp",
+            "id": "tr.mir.farm.ust-meth",
             "native_symbol": "meth",
             "name": "mETH-UST LP",
             "address": "terra16auz7uhnuxrj2dzrynz2elthx5zpps5gs6tyln",
@@ -926,7 +926,7 @@
             "invest_type": "staking"
         },
         {
-            "id": "tr.mir.farm.ust-mfb_lp",
+            "id": "tr.mir.farm.ust-mfb",
             "native_symbol": "mfb",
             "name": "mFB-UST LP",
             "address": "terra1jh2dh4g65hptsrwjv53nhsnkwlw8jdrxaxrca0",
@@ -937,7 +937,7 @@
             "invest_type": "staking"
         },
         {
-            "id": "tr.mir.farm.ust-mglxy_lp",
+            "id": "tr.mir.farm.ust-mglxy",
             "native_symbol": "mglxy",
             "name": "mGLXY-UST LP",
             "address": "terra1pjgzke6h5v4nz978z3a92gqajwhn8yyh5kv4zv",
@@ -948,7 +948,7 @@
             "invest_type": "staking"
         },
         {
-            "id": "tr.mir.farm.ust-mgoogl_lp",
+            "id": "tr.mir.farm.ust-mgoogl",
             "native_symbol": "mgoogl",
             "name": "mGOOGL-UST LP",
             "address": "terra1falkl6jy4087h4z567y2l59defm9acmwcs70ts",
@@ -959,7 +959,7 @@
             "invest_type": "staking"
         },
         {
-            "id": "tr.mir.farm.ust-mgs_lp",
+            "id": "tr.mir.farm.ust-mgs",
             "native_symbol": "mgs",
             "name": "mGS-UST LP",
             "address": "terra17smg3rl9vdpawwpe7ex4ea4xm6q038gp2chge5",
@@ -970,7 +970,7 @@
             "invest_type": "staking"
         },
         {
-            "id": "tr.mir.farm.ust-mhood_lp",
+            "id": "tr.mir.farm.ust-mhood",
             "native_symbol": "mhood",
             "name": "mHOOD-UST LP",
             "address": "terra1s0dgcsdy9kgunnf3gnwl40uwy9rxtmc39mhy2m",
@@ -981,7 +981,7 @@
             "invest_type": "staking"
         },
         {
-            "id": "tr.mir.farm.ust-miau_lp",
+            "id": "tr.mir.farm.ust-miau",
             "native_symbol": "miau",
             "name": "mIAU-UST LP",
             "address": "terra1ndlx5ndkknvmgj6s5ggmdlhjjsz0w6wrnwn5cf",
@@ -992,7 +992,7 @@
             "invest_type": "staking"
         },
         {
-            "id": "tr.mir.farm.ust-mjnj_lp",
+            "id": "tr.mir.farm.ust-mjnj",
             "native_symbol": "mjnj",
             "name": "mJNJ-UST LP",
             "address": "terra1yjvlgj80jkzwakqv65tzfwctdehqav4jujgx37",
@@ -1003,7 +1003,7 @@
             "invest_type": "staking"
         },
         {
-            "id": "tr.mir.farm.ust-mko_lp",
+            "id": "tr.mir.farm.ust-mko",
             "native_symbol": "mko",
             "name": "mKO-UST LP",
             "address": "terra10t6a287n4flvjpvdwuhre79ws9plufaagdj4r4",
@@ -1014,7 +1014,7 @@
             "invest_type": "staking"
         },
         {
-            "id": "tr.mir.farm.ust-mmsft_lp",
+            "id": "tr.mir.farm.ust-mmsft",
             "native_symbol": "mmsft",
             "name": "mMSFT-UST LP",
             "address": "terra14uaqudeylx6tegamqmygh85lfq8qg2jmg7uucc",
@@ -1025,7 +1025,7 @@
             "invest_type": "staking"
         },
         {
-            "id": "tr.mir.farm.ust-mnflx_lp",
+            "id": "tr.mir.farm.ust-mnflx",
             "native_symbol": "mnflx",
             "name": "mNFLX-UST LP",
             "address": "terra1mwu3cqzvhygqg7vrsa6kfstgg9d6yzkgs6yy3t",
@@ -1036,7 +1036,7 @@
             "invest_type": "staking"
         },
         {
-            "id": "tr.mir.farm.ust-mnio_lp",
+            "id": "tr.mir.farm.ust-mnio",
             "native_symbol": "mnio",
             "name": "mNIO-UST LP",
             "address": "terra1je3y5wnfm5v884j3vdegcc8045kje39g6aflce",
@@ -1047,7 +1047,7 @@
             "invest_type": "staking"
         },
         {
-            "id": "tr.mir.farm.ust-mnke_lp",
+            "id": "tr.mir.farm.ust-mnke",
             "native_symbol": "mnke",
             "name": "mNKE-UST LP",
             "address": "terra146dmpuj9zyzk6a47qdfn0djup3kddey5vdpk0c",
@@ -1058,7 +1058,7 @@
             "invest_type": "staking"
         },
         {
-            "id": "tr.mir.farm.ust-mnvda_lp",
+            "id": "tr.mir.farm.ust-mnvda",
             "native_symbol": "mnvda",
             "name": "mNVDA-UST LP",
             "address": "terra1495vu7s83d8kyqk4lzawajqt5d27pjfd8ym398",
@@ -1069,7 +1069,7 @@
             "invest_type": "staking"
         },
         {
-            "id": "tr.mir.farm.ust-mpypl_lp",
+            "id": "tr.mir.farm.ust-mpypl",
             "native_symbol": "mpypl",
             "name": "mPYPL-UST LP",
             "address": "terra17rm53s5vhjpfrjkhappmswczcmhl8zqdwlfwtm",
@@ -1080,7 +1080,7 @@
             "invest_type": "staking"
         },
         {
-            "id": "tr.mir.farm.ust-mqqq_lp",
+            "id": "tr.mir.farm.ust-mqqq",
             "native_symbol": "mqqq",
             "name": "mQQQ-UST LP",
             "address": "terra16j09nh806vaql0wujw8ktmvdj7ph8h09ltjs2r",
@@ -1091,7 +1091,7 @@
             "invest_type": "staking"
         },
         {
-            "id": "tr.mir.farm.ust-msbux_lp",
+            "id": "tr.mir.farm.ust-msbux",
             "native_symbol": "msbux",
             "name": "mSBUX-UST LP",
             "address": "terra1snem5zhmzj3q4wzm59tf98f0czsf6hcfpf703z",
@@ -1102,7 +1102,7 @@
             "invest_type": "staking"
         },
         {
-            "id": "tr.mir.farm.ust-mslv_lp",
+            "id": "tr.mir.farm.ust-mslv",
             "native_symbol": "mslv",
             "name": "mSLV-UST LP",
             "address": "terra178cf7xf4r9d3z03tj3pftewmhx0x2p77s0k6yh",
@@ -1113,7 +1113,7 @@
             "invest_type": "staking"
         },
         {
-            "id": "tr.mir.farm.ust-mspy_lp",
+            "id": "tr.mir.farm.ust-mspy",
             "native_symbol": "mspy",
             "name": "mSPY-UST LP",
             "address": "terra1jqqegd35rg2gjde54adpj3t6ecu0khfeaarzy9",
@@ -1124,7 +1124,7 @@
             "invest_type": "staking"
         },
         {
-            "id": "tr.mir.farm.ust-msq_lp",
+            "id": "tr.mir.farm.ust-msq",
             "native_symbol": "msq",
             "name": "mSQ-UST LP",
             "address": "terra1mv3pgkzs4krcennqj442jscg6jv84cejrs50n2",
@@ -1135,7 +1135,7 @@
             "invest_type": "staking"
         },
         {
-            "id": "tr.mir.farm.ust-mtsla_lp",
+            "id": "tr.mir.farm.ust-mtsla",
             "native_symbol": "mtsla",
             "name": "mTSLA-UST LP",
             "address": "terra1ygazp9w7tx64rkx5wmevszu38y5cpg6h3fk86e",
@@ -1146,7 +1146,7 @@
             "invest_type": "staking"
         },
         {
-            "id": "tr.mir.farm.ust-mtwtr_lp",
+            "id": "tr.mir.farm.ust-mtwtr",
             "native_symbol": "mtwtr",
             "name": "mTWTR-UST LP",
             "address": "terra1fc5a5gsxatjey9syq93c2n3xq90n06t60nkj6l",
@@ -1157,7 +1157,7 @@
             "invest_type": "staking"
         },
         {
-            "id": "tr.mir.farm.ust-muso_lp",
+            "id": "tr.mir.farm.ust-muso",
             "native_symbol": "muso",
             "name": "mUSO-UST LP",
             "address": "terra1utf3tm35qk6fkft7ltcnscwml737vfz7xghwn5",
@@ -1168,7 +1168,7 @@
             "invest_type": "staking"
         },
         {
-            "id": "tr.mir.farm.ust-mvixy_lp",
+            "id": "tr.mir.farm.ust-mvixy",
             "native_symbol": "mvixy",
             "name": "mVIXY-UST LP",
             "address": "terra1ekd58y58vq4gmxlzpc27dwuhw7wmms928ftuep",
@@ -1608,7 +1608,7 @@
             "invest_type": "collateral"
         },
         {
-            "id": "tr.anc.borrowing.ust",
+            "id": "tr.anc.shortfarm.ust",
             "native_symbol": "uusd",
             "name": "UST",
             "address": null,
@@ -1828,7 +1828,7 @@
             "invest_type": "holding"
         },
         {
-            "id": "bsc.pancake alpacabnb lp",
+            "id": "bsc.pancake_alpacabnb_lp",
             "native_symbol": "pancake alpacabnb lp",
             "name": "Pancake LPs",
             "address": "0xf3ce6aac24980e6b657926dfc79502ae414d3083",
@@ -1850,7 +1850,7 @@
             "invest_type": "holding"
         },
         {
-            "id": "bsc.3tether blp",
+            "id": "bsc.3tether_blp",
             "native_symbol": "3Tether BLP",
             "name": "Orbit Bridge BSC Belt.fi 3Tether",
             "address": "0x04100231d548Df31a003BEb99e81e3305Be9647b",
@@ -1949,7 +1949,7 @@
             "invest_type": "holding"
         },
         {
-            "id": "bsc.beltbnb lp",
+            "id": "bsc.beltbnb_lp",
             "native_symbol": "BELTBNB LP",
             "name": "Pancake LPs",
             "address": "0x83B92D283cd279fF2e057BD86a95BdEfffED6faa",
@@ -1960,7 +1960,7 @@
             "invest_type": "holding"
         },
         {
-            "id": "bsc.venus blp",
+            "id": "bsc.venus_blp",
             "native_symbol": "VENUS BLP",
             "name": "bDAI+bUSDC+bUSDT+bBUSD",
             "address": "0x86aFa7ff694Ab8C985b79733745662760e454169",
@@ -2004,7 +2004,7 @@
             "invest_type": "holding"
         },
         {
-            "id": "bsc.4belt blp",
+            "id": "bsc.4belt_blp",
             "native_symbol": "4Belt BLP",
             "name": "Belt.fi 4Belt",
             "address": "0x9cb73F20164e399958261c289Eb5F9846f4D1404",
@@ -2070,7 +2070,7 @@
             "invest_type": "holding"
         },
         {
-            "id": "bsc.beltbnbv2 lp",
+            "id": "bsc.beltbnbv2_lp",
             "native_symbol": "BELTBNBV2 LP",
             "name": "Pancake LPs",
             "address": "0xF3Bc6FC080ffCC30d93dF48BFA2aA14b869554bb",
@@ -2081,7 +2081,7 @@
             "invest_type": "holding"
         },
         {
-            "id": "bsc.pan.cake",
+            "id": "bsc.pan.staking.cake",
             "native_symbol": "cake",
             "name": "PancakeSwap Token",
             "address": null,
@@ -2092,7 +2092,7 @@
             "invest_type": "staking"
         },
         {
-            "id": "bsc.pan.alpaca",
+            "id": "bsc.pan.staking.alpaca",
             "native_symbol": "alpaca",
             "name": "Alpaca",
             "address": null,
@@ -2103,7 +2103,7 @@
             "invest_type": "staking"
         },
         {
-            "id": "bsc.pan.auto",
+            "id": "bsc.pan.staking.auto",
             "native_symbol": "auto",
             "name": "AUTOv2",
             "address": null,
@@ -2114,7 +2114,7 @@
             "invest_type": "staking"
         },
         {
-            "id": "bsc.pan.belt",
+            "id": "bsc.pan.staking.belt",
             "native_symbol": "belt",
             "name": "Belt",
             "address": null,
@@ -2125,7 +2125,7 @@
             "invest_type": "staking"
         },
         {
-            "id": "bsc.pan.busd",
+            "id": "bsc.pan.staking.busd",
             "native_symbol": "busd",
             "name": "Binance Pegged BUSD",
             "address": null,
@@ -2136,7 +2136,7 @@
             "invest_type": "staking"
         },
         {
-            "id": "bsc.pan.dai",
+            "id": "bsc.pan.staking.dai",
             "native_symbol": "dai",
             "name": "Binance Pegged DAI",
             "address": null,
@@ -2147,7 +2147,7 @@
             "invest_type": "staking"
         },
         {
-            "id": "bsc.pan.eth",
+            "id": "bsc.pan.staking.eth",
             "native_symbol": "eth",
             "name": "Binance Pegged ETH",
             "address": null,
@@ -2158,7 +2158,7 @@
             "invest_type": "staking"
         },
         {
-            "id": "bsc.pan.mir",
+            "id": "bsc.pan.staking.mir",
             "native_symbol": "mir",
             "name": "Mirror Finance",
             "address": null,
@@ -2169,7 +2169,7 @@
             "invest_type": "staking"
         },
         {
-            "id": "bsc.pan.mnflx",
+            "id": "bsc.pan.staking.mnflx",
             "native_symbol": "mnflx",
             "name": "Mirror NFLX Token",
             "address": null,
@@ -2180,7 +2180,7 @@
             "invest_type": "staking"
         },
         {
-            "id": "bsc.pan.tusd",
+            "id": "bsc.pan.staking.tusd",
             "native_symbol": "tusd",
             "name": "True USD",
             "address": null,
@@ -2191,7 +2191,7 @@
             "invest_type": "staking"
         },
         {
-            "id": "bsc.pan.usdc",
+            "id": "bsc.pan.staking.usdc",
             "native_symbol": "usdc",
             "name": "Binance Pegged USD Coin",
             "address": null,
@@ -2202,7 +2202,7 @@
             "invest_type": "staking"
         },
         {
-            "id": "bsc.pan.usdt",
+            "id": "bsc.pan.staking.usdt",
             "native_symbol": "usdt",
             "name": "Binance Pegged USDT",
             "address": null,
@@ -2213,7 +2213,7 @@
             "invest_type": "staking"
         },
         {
-            "id": "bsc.pan.ust",
+            "id": "bsc.pan.staking.ust",
             "native_symbol": "ust",
             "name": "UST Token",
             "address": null,
@@ -2224,7 +2224,7 @@
             "invest_type": "staking"
         },
         {
-            "id": "bsc.alp.alpaca",
+            "id": "bsc.alp.yield.alpaca",
             "native_symbol": "alpaca",
             "name": "AlpacaToken",
             "address": null,
@@ -2235,7 +2235,7 @@
             "invest_type": "yield"
         },
         {
-            "id": "bsc.alp.ibbnb",
+            "id": "bsc.alp.ib.ibbnb",
             "native_symbol": "ibbnb",
             "name": "Interest Bearing BNB",
             "address": null,
@@ -2246,7 +2246,7 @@
             "invest_type": "ib"
         },
         {
-            "id": "bsc.alp.ibbusd",
+            "id": "bsc.alp.ib.ibbusd",
             "native_symbol": "ibbusd",
             "name": "Interest Bearing BUSD",
             "address": null,
@@ -2257,8 +2257,8 @@
             "invest_type": "ib"
         },
         {
-            "id": "bsc.alp.pancake alpacabnb lp",
-            "native_symbol": "pancake alpacabnb lp",
+            "id": "bsc.alp.yield.pancake_alpacabnb",
+            "native_symbol": "pancake alpacabnb",
             "name": "Pancake LPs",
             "address": null,
             "chain": "bsc",
@@ -2268,7 +2268,7 @@
             "invest_type": "yield"
         },
         {
-            "id": "bsc.alp.salpaca",
+            "id": "bsc.alp.yield.salpaca",
             "native_symbol": "salpaca",
             "name": "Stronk Alpaca",
             "address": null,
@@ -2279,7 +2279,7 @@
             "invest_type": "yield"
         },
         {
-            "id": "bsc.bel.3tether blp",
+            "id": "bsc.bel.staking.3tether_blp",
             "native_symbol": "3Tether BLP",
             "name": "Orbit Bridge BSC Belt.fi 3Tether",
             "address": null,
@@ -2290,7 +2290,7 @@
             "invest_type": "staking"
         },
         {
-            "id": "bsc.bel.dai",
+            "id": "bsc.bel.staking.dai",
             "native_symbol": "DAI",
             "name": "BinancePeg Dai Token",
             "address": null,
@@ -2301,7 +2301,7 @@
             "invest_type": "staking"
         },
         {
-            "id": "bsc.bel.eth",
+            "id": "bsc.bel.staking.eth",
             "native_symbol": "ETH",
             "name": "BinancePeg Ethereum Token",
             "address": null,
@@ -2312,7 +2312,7 @@
             "invest_type": "staking"
         },
         {
-            "id": "bsc.bel.r4belt",
+            "id": "bsc.bel.staking.r4belt",
             "native_symbol": "r4Belt",
             "name": "Belt.fi remedy4BELT",
             "address": null,
@@ -2323,7 +2323,7 @@
             "invest_type": "staking"
         },
         {
-            "id": "bsc.bel.beltbtc",
+            "id": "bsc.bel.staking.beltbtc",
             "native_symbol": "beltBTC",
             "name": "beltBTC",
             "address": null,
@@ -2334,7 +2334,7 @@
             "invest_type": "staking"
         },
         {
-            "id": "bsc.bel.usdt",
+            "id": "bsc.bel.staking.usdt",
             "native_symbol": "USDT",
             "name": "BinancePeg BSCUSD",
             "address": null,
@@ -2345,7 +2345,7 @@
             "invest_type": "staking"
         },
         {
-            "id": "bsc.bel.beltusdt",
+            "id": "bsc.bel.staking.beltusdt",
             "native_symbol": "beltUSDT",
             "name": "beltUSDT",
             "address": null,
@@ -2356,7 +2356,7 @@
             "invest_type": "staking"
         },
         {
-            "id": "bsc.bel.btc",
+            "id": "bsc.bel.staking.btc",
             "native_symbol": "BTC",
             "name": "BinancePeg BTCB Token",
             "address": null,
@@ -2367,7 +2367,7 @@
             "invest_type": "staking"
         },
         {
-            "id": "bsc.bel.beltusdc",
+            "id": "bsc.bel.staking.beltusdc",
             "native_symbol": "beltUSDC",
             "name": "bMultiUSDC",
             "address": null,
@@ -2378,7 +2378,7 @@
             "invest_type": "staking"
         },
         {
-            "id": "bsc.bel.beltbnb lp",
+            "id": "bsc.bel.staking.beltbnb_lp",
             "native_symbol": "BELTBNB LP",
             "name": "Pancake LPs",
             "address": null,
@@ -2389,7 +2389,7 @@
             "invest_type": "staking"
         },
         {
-            "id": "bsc.bel.venus blp",
+            "id": "bsc.bel.staking.venus_blp",
             "native_symbol": "VENUS BLP",
             "name": "bDAI+bUSDC+bUSDT+bBUSD",
             "address": null,
@@ -2400,7 +2400,7 @@
             "invest_type": "staking"
         },
         {
-            "id": "bsc.bel.usdc",
+            "id": "bsc.bel.staking.usdc",
             "native_symbol": "USDC",
             "name": "BinancePeg USD Coin",
             "address": null,
@@ -2411,7 +2411,7 @@
             "invest_type": "staking"
         },
         {
-            "id": "bsc.bel.beltbusd",
+            "id": "bsc.bel.staking.beltbusd",
             "native_symbol": "beltBUSD",
             "name": "beltBUSD",
             "address": null,
@@ -2422,7 +2422,7 @@
             "invest_type": "staking"
         },
         {
-            "id": "bsc.bel.beltdai",
+            "id": "bsc.bel.staking.beltdai",
             "native_symbol": "beltDAI",
             "name": "beltDAI",
             "address": null,
@@ -2433,7 +2433,7 @@
             "invest_type": "staking"
         },
         {
-            "id": "bsc.bel.4belt blp",
+            "id": "bsc.bel.staking.4belt_blp",
             "native_symbol": "4Belt BLP",
             "name": "Belt.fi 4Belt",
             "address": null,
@@ -2444,7 +2444,7 @@
             "invest_type": "staking"
         },
         {
-            "id": "bsc.bel.beltbnb",
+            "id": "bsc.bel.staking.beltbnb",
             "native_symbol": "beltBNB",
             "name": "beltBNB",
             "address": null,
@@ -2455,7 +2455,7 @@
             "invest_type": "staking"
         },
         {
-            "id": "bsc.bel.belteth",
+            "id": "bsc.bel.staking.belteth",
             "native_symbol": "beltETH",
             "name": "beltETH",
             "address": null,
@@ -2466,7 +2466,7 @@
             "invest_type": "staking"
         },
         {
-            "id": "bsc.bel.wbnb",
+            "id": "bsc.bel.staking.wbnb",
             "native_symbol": "WBNB",
             "name": "Wrapped BNB",
             "address": null,
@@ -2477,7 +2477,7 @@
             "invest_type": "staking"
         },
         {
-            "id": "bsc.bel.belt",
+            "id": "bsc.bel.staking.belt",
             "native_symbol": "BELT",
             "name": "BELT Token",
             "address": null,
@@ -2488,7 +2488,7 @@
             "invest_type": "staking"
         },
         {
-            "id": "bsc.bel.busd",
+            "id": "bsc.bel.staking.busd",
             "native_symbol": "BUSD",
             "name": "BinancePeg BUSD Token",
             "address": null,
@@ -2499,7 +2499,7 @@
             "invest_type": "staking"
         },
         {
-            "id": "bsc.bel.beltbnbv2 lp",
+            "id": "bsc.bel.staking.beltbnbv2_lp",
             "native_symbol": "BELTBNBV2 LP",
             "name": "Pancake LPs",
             "address": null,
