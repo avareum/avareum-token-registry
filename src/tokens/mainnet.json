@@ -2141,7 +2141,7 @@
             "name": "Belt",
             "address": "0xE0e514c71282b6f4e823703a39374Cf58dc3eA4f",
             "chain": "bsc",
-            "protocol": "belt finance",
+            "protocol": "belt",
             "type": "bep20",
             "decimals": 18,
             "invest_type": "holding"
