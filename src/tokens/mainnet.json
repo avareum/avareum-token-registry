@@ -2805,6 +2805,50 @@
             "type": "bep20",
             "decimals": 18,
             "invest_type": "staking"
+        },
+        {
+            "id": "sol.sol",
+            "native_symbol": "SOL",
+            "name": "SOL",
+            "address": "",
+            "chain": "solana",
+            "protocol": "",
+            "type": "native",
+            "decimals": 9,
+            "invest_type": "holding"
+        },
+        {
+            "id": "sol.wsol",
+            "native_symbol": "wrapped SOL",
+            "name": "wrapped SOL",
+            "address": "So11111111111111111111111111111111111111112",
+            "chain": "solana",
+            "protocol": "",
+            "type": "spl_token",
+            "decimals": 9,
+            "invest_type": "holding"
+        },
+        {
+            "id": "sol.usdc",
+            "native_symbol": "usdc",
+            "name": "USD Coin (Devnet)",
+            "address": "CX3eoP6VQXp1buAvCTHQiyVkL47MwT5CHk3FLD53ZPoM",
+            "chain": "solana",
+            "protocol": "centre.io",
+            "type": "spl_token",
+            "decimals": 6,
+            "invest_type": "holding"
+        },
+        {
+            "id": "sol.avar",
+            "native_symbol": "avar",
+            "name": "Avareum Token (Devnet)",
+            "address": "9s2tyrX62LBJJxtfdAXjHphUE4MkUucUuWpyxirJ3bbC",
+            "chain": "solana",
+            "protocol": "avareum",
+            "type": "spl_token",
+            "decimals": 6,
+            "invest_type": "holding"
         }
     ]
 }
