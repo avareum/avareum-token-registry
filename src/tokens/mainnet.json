@@ -2829,12 +2829,12 @@
             "invest_type": "holding"
         },
         {
-            "id": "sol.usdc",
+            "id": "sol.avar_usdc",
             "native_symbol": "usdc",
-            "name": "USD Coin (Devnet)",
+            "name": "Avareum USD Coin (Devnet)",
             "address": "CX3eoP6VQXp1buAvCTHQiyVkL47MwT5CHk3FLD53ZPoM",
             "chain": "solana",
-            "protocol": "centre.io",
+            "protocol": "avareum",
             "type": "spl_token",
             "decimals": 6,
             "invest_type": "holding"
@@ -2846,6 +2846,17 @@
             "address": "9s2tyrX62LBJJxtfdAXjHphUE4MkUucUuWpyxirJ3bbC",
             "chain": "solana",
             "protocol": "avareum",
+            "type": "spl_token",
+            "decimals": 6,
+            "invest_type": "holding"
+        },
+        {
+            "id": "sol.usdc",
+            "native_symbol": "usdc",
+            "name": "USD Coin",
+            "address": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+            "chain": "solana",
+            "protocol": "centre.io",
             "type": "spl_token",
             "decimals": 6,
             "invest_type": "holding"
