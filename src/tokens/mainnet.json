@@ -2871,6 +2871,72 @@
             "type": "spl_token",
             "decimals": 6,
             "invest_type": "holding"
+        },
+        {
+            "id": "avl.wavax",
+            "native_symbol": "WAVAX",
+            "name": "Wrapped AVAX",
+            "address": "0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7",
+            "chain": "avalanche",
+            "protocol": "avalanche",
+            "type": "erc20",
+            "decimals": 18,
+            "invest_type": "holding"
+        },
+        {
+            "id": "avl.usdt",
+            "native_symbol": "USDt",
+            "name": "TetherToken (USDt)",
+            "address": "0x9702230A8Ea53601f5cD2dc00fDBc13d4dF4A8c7",
+            "chain": "avalanche",
+            "protocol": "tether",
+            "type": "erc20",
+            "decimals": 6,
+            "invest_type": "holding"
+        },
+        {
+            "id": "avl.usdte",
+            "native_symbol": "USDT.e",
+            "name": "Tether USD (USDT.e)",
+            "address": "0xc7198437980c041c805A1EDcbA50c1Ce5db95118",
+            "chain": "avalanche",
+            "protocol": "tether",
+            "type": "erc20",
+            "decimals": 6,
+            "invest_type": "holding"
+        },
+        {
+            "id": "avl.daie",
+            "native_symbol": "DAI.e",
+            "name": "Dai Stablecoin (DAI.e)",
+            "address": "0xd586e7f844cea2f87f50152665bcbc2c279d8d70",
+            "chain": "avalanche",
+            "protocol": "markerdao",
+            "type": "erc20",
+            "decimals": 18,
+            "invest_type": "holding"
+        },
+        {
+            "id": "avl.usdc",
+            "native_symbol": "USDC.e",
+            "name": "USD Coin (USDC.e)",
+            "address": "0xA7D7079b0FEaD91F3e65f86E8915Cb59c1a4C664",
+            "chain": "avalanche",
+            "protocol": "centre.io",
+            "type": "erc20",
+            "decimals": 6,
+            "invest_type": "holding"
+        },
+        {
+            "id": "avl.insur",
+            "native_symbol": "INSUR",
+            "name": "Avalanche INSUR Token (INSUR)",
+            "address": "0x544c42fBB96B39B21DF61cf322b5EDC285EE7429",
+            "chain": "avalanche",
+            "protocol": "insurace",
+            "type": "erc20",
+            "decimals": 18,
+            "invest_type": "holding"
         }
     ]
 }
