@@ -2900,7 +2900,7 @@
             "name": "Tether USD (USDT.e)",
             "address": "0xc7198437980c041c805A1EDcbA50c1Ce5db95118",
             "chain": "avalanche",
-            "protocol": "tether",
+            "protocol": "Avalanche Bridge",
             "type": "erc20",
             "decimals": 6,
             "invest_type": "holding"
@@ -2909,20 +2909,31 @@
             "id": "avl.daie",
             "native_symbol": "DAI.e",
             "name": "Dai Stablecoin (DAI.e)",
-            "address": "0xd586e7f844cea2f87f50152665bcbc2c279d8d70",
+            "address": "0xd586E7F844cEa2F87f50152665BCbc2C279D8d70",
             "chain": "avalanche",
-            "protocol": "markerdao",
+            "protocol": "Avalanche Bridge",
             "type": "erc20",
             "decimals": 18,
             "invest_type": "holding"
         },
         {
             "id": "avl.usdc",
+            "native_symbol": "USD Token",
+            "name": "USD Coin (USDC)",
+            "address": "0xB97EF9Ef8734C71904D8002F8b6Bc66Dd9c48a6E",
+            "chain": "avalanche",
+            "protocol": "centre.io",
+            "type": "erc20",
+            "decimals": 6,
+            "invest_type": "holding"
+        },
+        {
+            "id": "avl.usdce",
             "native_symbol": "USDC.e",
             "name": "USD Coin (USDC.e)",
             "address": "0xA7D7079b0FEaD91F3e65f86E8915Cb59c1a4C664",
             "chain": "avalanche",
-            "protocol": "centre.io",
+            "protocol": "Avalanche Bridge",
             "type": "erc20",
             "decimals": 6,
             "invest_type": "holding"
