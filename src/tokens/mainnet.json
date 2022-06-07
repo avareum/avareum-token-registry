@@ -1,5 +1,4 @@
 {
-    "updated_at": "2022-04-28T11:11:00+0000",
     "tokens": [
         {
             "id": "tr.luna",
@@ -2873,77 +2872,88 @@
             "invest_type": "holding"
         },
         {
-            "id": "avl.wavax",
+            "id": "avl-x.avax",
+            "native_symbol": "AVAX",
+            "name": "Avalanche",
+            "address": "FvwEAhmxKfeiG8SnEvq42hc6whRyY3EFYAvebMqDNDGCgxN5Z",
+            "chain": "avalanche-x",
+            "protocol": "avalanche",
+            "type": "native",
+            "decimals": 9,
+            "invest_type": "holding"
+        },
+        {
+            "id": "avl-c.wavax",
             "native_symbol": "WAVAX",
             "name": "Wrapped AVAX",
             "address": "0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7",
-            "chain": "avalanche",
+            "chain": "avalanche-c",
             "protocol": "avalanche",
             "type": "erc20",
             "decimals": 18,
             "invest_type": "holding"
         },
         {
-            "id": "avl.usdt",
+            "id": "avl-c.usdt",
             "native_symbol": "USDt",
             "name": "TetherToken (USDt)",
             "address": "0x9702230A8Ea53601f5cD2dc00fDBc13d4dF4A8c7",
-            "chain": "avalanche",
+            "chain": "avalanche-c",
             "protocol": "tether",
             "type": "erc20",
             "decimals": 6,
             "invest_type": "holding"
         },
         {
-            "id": "avl.usdte",
+            "id": "avl-c.usdte",
             "native_symbol": "USDT.e",
             "name": "Tether USD (USDT.e)",
             "address": "0xc7198437980c041c805A1EDcbA50c1Ce5db95118",
-            "chain": "avalanche",
+            "chain": "avalanche-c",
             "protocol": "Avalanche Bridge",
             "type": "erc20",
             "decimals": 6,
             "invest_type": "holding"
         },
         {
-            "id": "avl.daie",
+            "id": "avl-c.daie",
             "native_symbol": "DAI.e",
             "name": "Dai Stablecoin (DAI.e)",
             "address": "0xd586E7F844cEa2F87f50152665BCbc2C279D8d70",
-            "chain": "avalanche",
+            "chain": "avalanche-c",
             "protocol": "Avalanche Bridge",
             "type": "erc20",
             "decimals": 18,
             "invest_type": "holding"
         },
         {
-            "id": "avl.usdc",
+            "id": "avl-c.usdc",
             "native_symbol": "USD Token",
             "name": "USD Coin (USDC)",
             "address": "0xB97EF9Ef8734C71904D8002F8b6Bc66Dd9c48a6E",
-            "chain": "avalanche",
+            "chain": "avalanche-c",
             "protocol": "centre.io",
             "type": "erc20",
             "decimals": 6,
             "invest_type": "holding"
         },
         {
-            "id": "avl.usdce",
+            "id": "avl-c.usdce",
             "native_symbol": "USDC.e",
             "name": "USD Coin (USDC.e)",
             "address": "0xA7D7079b0FEaD91F3e65f86E8915Cb59c1a4C664",
-            "chain": "avalanche",
+            "chain": "avalanche-c",
             "protocol": "Avalanche Bridge",
             "type": "erc20",
             "decimals": 6,
             "invest_type": "holding"
         },
         {
-            "id": "avl.insur",
+            "id": "avl-c.insur",
             "native_symbol": "INSUR",
             "name": "Avalanche INSUR Token (INSUR)",
             "address": "0x544c42fBB96B39B21DF61cf322b5EDC285EE7429",
-            "chain": "avalanche",
+            "chain": "avalanche-c",
             "protocol": "insurace",
             "type": "erc20",
             "decimals": 18,
