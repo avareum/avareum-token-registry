@@ -2872,7 +2872,7 @@
             "invest_type": "holding"
         },
         {
-            "id": "avl-x.avax",
+            "id": "avax-x.avax",
             "native_symbol": "AVAX",
             "name": "Avalanche",
             "address": "FvwEAhmxKfeiG8SnEvq42hc6whRyY3EFYAvebMqDNDGCgxN5Z",
@@ -2883,7 +2883,7 @@
             "invest_type": "holding"
         },
         {
-            "id": "avl-c.wavax",
+            "id": "avax-c.avax",
             "native_symbol": "WAVAX",
             "name": "Wrapped AVAX",
             "address": "0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7",
@@ -2894,7 +2894,7 @@
             "invest_type": "holding"
         },
         {
-            "id": "avl-c.usdt",
+            "id": "avax-c.usdt",
             "native_symbol": "USDt",
             "name": "TetherToken (USDt)",
             "address": "0x9702230A8Ea53601f5cD2dc00fDBc13d4dF4A8c7",
@@ -2905,7 +2905,7 @@
             "invest_type": "holding"
         },
         {
-            "id": "avl-c.usdte",
+            "id": "avax-c.avax.bridge.usdt",
             "native_symbol": "USDT.e",
             "name": "Tether USD (USDT.e)",
             "address": "0xc7198437980c041c805A1EDcbA50c1Ce5db95118",
@@ -2916,7 +2916,7 @@
             "invest_type": "holding"
         },
         {
-            "id": "avl-c.daie",
+            "id": "avax-c.avax.bridge.dai",
             "native_symbol": "DAI.e",
             "name": "Dai Stablecoin (DAI.e)",
             "address": "0xd586E7F844cEa2F87f50152665BCbc2C279D8d70",
@@ -2927,7 +2927,7 @@
             "invest_type": "holding"
         },
         {
-            "id": "avl-c.usdc",
+            "id": "avax-c.usdc",
             "native_symbol": "USD Token",
             "name": "USD Coin (USDC)",
             "address": "0xB97EF9Ef8734C71904D8002F8b6Bc66Dd9c48a6E",
@@ -2938,7 +2938,7 @@
             "invest_type": "holding"
         },
         {
-            "id": "avl-c.usdce",
+            "id": "avax-c.avax.bridge.usdc",
             "native_symbol": "USDC.e",
             "name": "USD Coin (USDC.e)",
             "address": "0xA7D7079b0FEaD91F3e65f86E8915Cb59c1a4C664",
@@ -2949,7 +2949,7 @@
             "invest_type": "holding"
         },
         {
-            "id": "avl-c.insur",
+            "id": "avax-c.insur",
             "native_symbol": "INSUR",
             "name": "Avalanche INSUR Token (INSUR)",
             "address": "0x544c42fBB96B39B21DF61cf322b5EDC285EE7429",
